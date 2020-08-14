@@ -1,0 +1,59 @@
+ body {
+     line-height: normal;
+     font-weight: 20px;
+     font-weight: italic;
+     font: roboto;
+     font-family: Arial, Helvetica, sans-serif;
+     display: inline;
+ }
+
+ .divv {
+     color: chocolate;
+     margin: 30px;
+     display: block;
+     ;
+ }
+
+ h2 {
+     margin-top: 30px;
+     margin-right: 30px;
+     margin-left: 420px;
+     margin-bottom: 30px;
+     text-decoration: underline;
+     font-style: italic;
+     color: coral;
+ }
+
+ .title {
+     margin-top: 30px;
+     margin-right: 30px;
+     margin-left: 30px;
+     margin-bottom: 30px;
+     color: burlywood;
+     font-weight: 600px;
+
+ }
+
+ p {
+
+     margin-top: 30px;
+     margin-right: 30px;
+     margin-left: 60px;
+     margin-bottom: 30px;
+     background-origin: padding-box;
+     border: 5px red solid;
+     padding: 30px;
+     background-color: yellow;
+
+ }
+
+
+ h6 {
+     color: tomato;
+     font-style: italic;
+ }
+
+ .img {
+     margin-left: 450px;
+     display: inline;
+ }
